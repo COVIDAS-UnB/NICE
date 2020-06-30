@@ -7,6 +7,6 @@ Ambientes climatizados geralmente tem pouca circulação de ar e a qualidade ine
 Essa proposta se encaixa em aspectos de planejamento físico e ambientais e está voltada para o retorno as aulas presenciais e consequente uso de espaços de estudo na UnB. 
 
 
-#Pitch 
+# Pitch 
 
 https://www.youtube.com/watch?v=4Ui-QOm1q9M&feature=youtu.be
